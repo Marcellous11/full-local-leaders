@@ -1,0 +1,4 @@
+./local-leaders-back-end/node-modules
+./local-leaders-front-end/node-modules
+./local-leaders-front-end/src/apis/secret
+./local-leaders-front-end/src/apis/secret/secret.js

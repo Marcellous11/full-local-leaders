@@ -1,0 +1,576 @@
+[
+	{
+		"twitid": "JeffCheney",
+		"full_name": "Jeff Cheney",
+		"imgurl": "https://pbs.twimg.com/profile_images/868183723388227584/JK1QmE-U_200x200.jpg",
+		"approve": 0,
+		"disapprove": 0
+	},
+	{
+		"twitid": "kingjames",
+		"full_name": "Lebron James",
+		"imgurl": "https://pbs.twimg.com/profile_images/1421530540063092736/xqtcu8HX_200x200.jpg",
+		"approve": 0,
+		"disapprove": 0
+	},
+	{
+		"twitid": "JoeBiden",
+		"full_name": "Joe Biden",
+		"imgurl": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_200x200.jpg",
+		"approve": 0,
+		"disapprove": 0
+	},
+	{
+		"twitid": "drake",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/563843814725402624/Vb8k670S_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "NYCComptroller",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1477144578096574466/NPVpywfM_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "LADAOffice",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1335992664345387009/JhrewYU5_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "NYCMayor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1619354647705042946/eKfUt2ma_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorAdler",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/955460391051526144/aXXYow0D_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "LACAssessor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1367976363378896896/lR0W8TE6_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "JumaaneWilliams",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1031297616917798913/FF5kN_43_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "2pac",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1455593763229736961/beiMUQmY_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "msosheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1616297631084384257/tfstGxFH_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "macmiller",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1035265948192653312/4WYg4YiA_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "mfflaherty",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/950161313711325184/GMNFIeSA_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "jesus",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1321601861275676672/C2AIvH6h_normal.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "BernCoClerk",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1318650479367364615/E0NhbIHk_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "LoudounOCA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1436049236152524803/exZ6K2_p_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "god",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1186423625433223168/6VycCb6R_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "bill4frisco",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/663590553573941248/Uo4TyOS9_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "KeatingFrisco",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1471553877606551556/ci_cFuA9_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "rblivingston",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1047349988127330305/be9-CziA_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "Angelia4Frisco",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1327669229500444672/UYr6LEvp_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "LoudounSheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1588243584028925955/3oQWZrzt_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "votereese",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1621927177787953152/Cf1u6hD9_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorKeller",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1439637928641060864/0S6qbA4s_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "WashoeSheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1609583750299676674/hSSXkTzK_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorSchieve",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1573072646064857088/JvGzB5Ht_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "SheriffSuffolk",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/714541007241678850/dqIGml0p_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "DenverElections",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1541911160571580416/kGhYOOl2_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorHancock",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1397768414400180230/c9WbMLfh_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "WashoeCoDA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/696856202584522753/insIL5NG_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "BernCoTreasurer",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1545773518058430465/cvG_kAwk_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "KniechAtLarge",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/974773397824487424/ky4Glh0W_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "CacheSheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1616505951699501056/TH0ixAk1_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "mayoroflasvegas",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1006245470958579712/BsEYx22k_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "LasVegasDA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/549592131442970625/I7X7uSxW_200x200.jpeg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "ortegaatlarge",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1575953943347150848/IqzQFiIa_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "Sheriff_LVMPD",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1610008597022531584/D8wUTXf-_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "ColumbusCouncil",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1410930298490138625/J1gE3vmO_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "ErinforBoston",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1159514444805881858/2u4QTYf6_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "zmklein",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1020851447209123841/BZ_pz_g0_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorGinther",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1500976737030742020/XnARlx35_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "cybrowndct",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/471664795523899393/4v-iWhjb_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "UCSO",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1085333178292695040/3fLChn7I_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "juliaforboston",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1462250473411522566/cHIWn3Hx_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "FresnoDA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/829205634654552066/3ylKkKjB_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "DentonCountyDA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1213256575835459585/R-ouDrpN_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "FresnoSheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1353119060951617537/aN20wLlQ_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "VoteFresnoCo",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1180152197083881472/c1k_PUDu_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "mcsoaz",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1610313804700868608/0Srn9Fp9_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "Andy_Eads",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1459163409728081931/lt2-JizZ_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "acassessor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1122173831576076288/S1OM4Mft_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "FresnoCoSS",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1612521875946737664/7zvXw03e_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "DentonCoSheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/854060855624740866/RVtDrzo__200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "mcschoolsup",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1383119321883234305/l2mqtDnA_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorToddGloria",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1405197124531154945/mBk2W5Nw_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MCAssessor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1613231215288668160/QqZz-kQi_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorJerryDyer",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1372264418587729920/0hxkzzh8_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "SDDistAtty",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/771395745408704512/-X64_gUk_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "AlamedaCOE",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/951960133080293376/UAocRGKt_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MaricopaClerk",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1098991631909367808/EH8mokod_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MelissaWilkACCR",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1496641840619016192/jr4y1_aa_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "Kaplan4Oakland",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/917071302770409473/9HtcebqQ_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "DallasMayor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1574764578466136064/Cc-XUe8a_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "BibbSupCtClerk",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/623538714829045761/ryZgEL_R_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "ACSOSheriffs",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1611158638122635267/PzHhG4GE_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "CollinCoClerk",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1409906292202876935/EdvrfNMc_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "marcoattorney",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1200576890408292352/pSXQxDCv_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "KCPrinceTexas",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1421601005255467009/ZDMptjLI_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "RecordersOffice",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1613301231992340491/I9LQrkza_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "collincountyda",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1587435123275960322/XejViHl8_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "ShelbyForPlano",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1132749253300969473/FxJPZq-x_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "OaklandAuditor",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1100472069093961728/MX5rV7YY_200x200.png",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorGallego",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1387459387212533762/QKXQkfSq_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "JudgeChrisHill",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1360396016126742531/8tJRH64L_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "Ruthzee",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1488253878596509702/vGQIYwR3_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "MayorWu",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1460611937528655890/2T0k7xD8_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "RickGrady",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/954577149544996864/XPxk74UV_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "BWhippleKS",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1030160881173164032/Hs35g01e_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "kellyarnoldks",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/872850886229229568/DCO2oasu_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "SedgwickCoDA",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/543156114167062529/Qhs5L_nY_200x200.jpeg",
+		"approve": null,
+		"disapprove": null
+	},
+	{
+		"twitid": "SGCountySheriff",
+		"full_name": null,
+		"imgurl": "https://pbs.twimg.com/profile_images/1304486235218546689/MD1gY7h9_200x200.jpg",
+		"approve": null,
+		"disapprove": null
+	}
+]

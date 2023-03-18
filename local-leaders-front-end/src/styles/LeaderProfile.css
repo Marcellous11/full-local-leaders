@@ -1,0 +1,13 @@
+.LeaderProfile {
+	margin-top: 5rem;
+	max-width: 1500px;
+	/* background-color: blue; */
+}
+
+.LeaderProfile-userContent img {
+	border-radius: 1rem;
+}
+
+#backBtn {
+	display: flex;
+}

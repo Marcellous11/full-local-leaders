@@ -1,0 +1,56 @@
+@font-face {
+	font-family: Liquidior;
+	src: url("../fonts/Liquidior.otf");
+}
+@font-face {
+	font-family: NeilvardThree;
+	src: url("../fonts/NeilvardThree.otf");
+}
+
+html {
+	font-family: NeilvardThree;
+	background-color: rgb(235, 222, 199);
+}
+
+.Landing {
+	display: block;
+	position: relative;
+	margin-top: 8rem;
+}
+.Landing-Intro {
+	font-family: NeilvardThree;
+	letter-spacing: .1rem;
+	width: 75%;
+	max-width: 550px;
+	margin: 2rem auto;
+	padding: 0.5rem;
+	border-radius: 1rem;
+	background-color: rgb(74, 108, 148);
+	color: white;
+}
+.Landing-Intro p {
+	font-family: NeilvardThree;
+	letter-spacing: 0;
+}
+
+.Landing button {
+	background-color: rgb(127, 27, 0);
+}
+.Landing button:hover {
+	background-color: rgb(185, 37, 32);
+}
+
+#leader-welcome {
+	letter-spacing: .5rem;
+	font-size: 3rem;
+	margin-bottom: 0;
+}
+
+#leader-to {
+	letter-spacing: .5rem;
+	/* font-size: 2rem; */
+	margin: 0 auto;
+}
+#leader-offical-name {
+	margin-top: .5rem;
+}

@@ -1,0 +1,12 @@
+.LeaderMiniBio a {
+	text-decoration: none;
+}
+
+#name {
+	font-family: NeilvardThree;
+	letter-spacing: .05rem;
+}
+#avatar {
+	font-size: 1.7rem;
+	font-family: NeilvardThree;
+}

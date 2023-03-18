@@ -1,0 +1,34 @@
+.Leaders {
+	/* margin-top: 3rem;
+	margin-bottom: 7rem; */
+}
+.Leaders-Header {
+	width: 50%;
+	max-width: 600px;
+	margin: 3rem auto;
+	padding: 0.5rem;
+	margin-bottom: 5rem;
+	border-radius: 0.5rem;
+	background-color: rgb(185, 37, 32);
+	color: white;
+}
+.Leaders-Header h1 {
+	font-size: 3rem;
+	font-family: NeilvardThree;
+}
+.Leaders-Header p {
+	font-family: NeilvardThree;
+	font-size: 1.4rem;
+	letter-spacing: .1rem;
+}
+
+.Leaders button:hover {
+	background-color: rgb(255, 255, 255);
+}
+
+@media (max-width: 500px) {
+	/* CSS that should be displayed if width is equal to or less than 450px goes here */
+	.Leaders-Header {
+		width: 80%;
+	}
+}

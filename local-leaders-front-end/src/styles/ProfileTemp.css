@@ -1,0 +1,39 @@
+.ProTempSupporting {
+	background-color: rgb(67, 100, 139);
+	padding: 1rem;
+	color: white;
+	border-radius: .5rem;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(214, 214, 214);
+}
+a:hover {
+	color: red;
+}
+#proName {
+	font-family: NeilvardThree;
+	letter-spacing: .1rem;
+	color: white;
+}
+
+#backBtn {
+	color: white;
+	margin: auto;
+	margin-top: 2rem;
+	width: 80%;
+}
+
+#backBtn:hover {
+	background-color: rgb(185, 37, 32);
+}
+
+@media (max-width: 500px) {
+	/* CSS that should be displayed if width is equal to or less than 450px goes here */
+	#tempPro-card {
+		width: 80%;
+		margin: auto;
+		margin-top: 4rem;
+	}
+}
