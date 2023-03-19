@@ -46,6 +46,8 @@ Start the server
 ```bash
   npm start
 ```
+Next you have to create a free google account at [Google developer](https://developers.google.com/) and create a API TOKEN, also free. 
+In the apis folder, you will need to create a secret folder with a secret.js file in it.  Save your API TOKEN in the secret.js file and export it.
 
 Frontend
 
