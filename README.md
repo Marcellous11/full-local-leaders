@@ -1,7 +1,7 @@
 
 # Local Leaders
 
-This website allows you to see very quickly who the local government officials for a given address. 
+This website allows you to see who the local government officials are for a given address. 
 
 
 ## Demo
