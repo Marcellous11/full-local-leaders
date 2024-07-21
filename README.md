@@ -18,7 +18,7 @@ Clone the project
   git clone https://github.com/Marcellous11/capstone2-Local-Leaders.git
 ```
 
-You'll need to open threww terminal windows and cd into both backend, frontend, and server. Make sure you have a database server ( I used postresSQL) running on port 5432. You will also need to run the file "leaders.sql" in a psql PostgreSQL interactive console. Run this in your termial
+You'll need to open through terminal windows and cd into both backend, frontend, and server. Make sure you have a database server ( I used postresSQL) running on port 5432. You will also need to run the file "leaders.sql" in a psql PostgreSQL interactive console. Run this in your termial
 
 ```bash
   pqsl
